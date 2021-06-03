@@ -11,7 +11,7 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3>Front End Developer</h3>
               <p>
-                Soy desarrolladora web, incursionando en el mundo del back end
+                Soy desarrolladora web, incursionando en el mundo del backend
               </p>
               <div class="row">
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
@@ -59,7 +59,7 @@
 
         <div class="section-title">
           <h2>Habilidades</h2>
-          <p>Tengo dos años de experiencia maquetando y diseñando sitios web  responsive, tanto para empresas locales e internacionales, como para clientes particulares, y un año de aprendizaje de backend.</p>
+          <p>Tengo dos años de experiencia maquetando y diseñando sitios web responsive, tanto para empresas locales e internacionales, como para clientes particulares, y un año de aprendizaje de backend.</p>
         </div>
 
         <div class="row skills-content">
@@ -81,13 +81,13 @@
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">55%</i></span>
+              <span class="skill">JavaScript <i class="val">35%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
-            <div class="progress"><span class="skill">MySQL <i class="val">65%</i></span>
+            <div class="progress"><span class="skill">MySQL <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -100,7 +100,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">GIT <i class="val">60%</i></span>
+              <span class="skill">GIT <i class="val">40%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -111,14 +111,14 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">70%</i></span>
+              <span class="skill">PHP <i class="val">45%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">WordPress/CMS <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -197,7 +197,7 @@
               <h4>Bootcamp PHP</h4>
               <h5>2021</h5>
               <p><em>Globant</em></p>
-              <p>Introduccón a programación en PHP</p>
+              <p>Introducción a programación en PHP</p>
             </div>
             <div class="resume-item">
               <h4>Programación Web PHP</h4>
@@ -215,7 +215,7 @@
               <h4>Desarrollo Frontend</h4>
               <h5>2020 - 2021</h5>
               <p><em>Coderhouse, Buenos Aires, Argentina</em></p>
-              <p>Desarrollo web, Javascript y React. Finalizacion 12/2021</p>
+              <p>Desarrollo web, Javascript y React. Finalización 12/2021</p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -226,7 +226,7 @@
               <p><em>axle.ai, Boston, NY </em></p>
               <p>
               <ul>
-                <li>Desarrollo sitio web con panel de admiinistración.</li>
+                <li>Desarrollo sitio web con panel de administración.</li>
                 <li>Desarrollo sitio web para proyecto en conjunto con otra empresa. </li>
                 <li>Mantenimiento de los sitios desarrollados</li>
               </ul>
@@ -324,7 +324,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxs-shopping-bag"></i></div>
               <h4 class="title"><a href="">Ecommerce</a></h4>
-              <p class="description">Desarrollo de tinedas online a traves de Tienda Nube, Woocommerce o Shopify</p>
+              <p class="description">Desarrollo de tiendas online a través de Tienda Nube, Woocommerce o Shopify</p>
             </div>
           </div>
 
@@ -332,7 +332,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-code-block"></i></div>
               <h4 class="title"><a href="">Desarrollo web</a></h4>
-              <p class="description">Diseño y maquetación de sitios responsive a traves de Wordpress, HTML + CSS Bootstrap</p>
+              <p class="description">Diseño y maquetación de sitios responsive a través de Wordpress, HTML + CSS Bootstrap</p>
             </div>
           </div>
 
